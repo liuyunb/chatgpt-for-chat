@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac7b8ec59ed74b579c94331f55732256, type: 3}
+  m_Name: DialogNode1_1
+  m_EditorClassIdentifier: 
+  curState: 2
+  dataList:
+  - speaker: wjl
+    content: "\u829C\u6E56\uFF0C<r=\u597D\u5E05>\u6C6A\u4F73\u78CA</r>\uFF0C<2.5>\u563B<color=#F00000>\u563B</color>\n<r=\u597D\u731B>\u8D39\u68EE</r>
+      66666"
+    needType: 1
+    canQuickShow: 1
+    autoNext: 0
+  - speaker: fs
+    content: "\u8FD9\u662F<1>\u7B2C\u4E8C\u53E5\u8BDD"
+    needType: 1
+    canQuickShow: 1
+    autoNext: 1

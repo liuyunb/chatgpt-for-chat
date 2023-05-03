@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee55bd2e6bbbe349b8f2836c6a8bcea, type: 3}
+  m_Name: OptionNode1_2
+  m_EditorClassIdentifier: 
+  curState: 0
+  dataList:
+  - content: "\u5230\u8FBE\u7B2C\u4E8C\u6BB5"
+  - content: "\u7ED3\u675F\u5566\uFF01"
+  sequenceList:
+  - {fileID: 11400000, guid: 5530e2ee6b9552c40946ae43cc6c3f89, type: 2}
